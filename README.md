@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Shahryar</h1>
 <h3 align="center">Applied Data Scientist & Econometrics Researcher | Causal Inference • Forecasting • Analytics</h3>
-<img align="right" alt="coding" width="350"
+<img align="right" alt="coding" width="450"
 src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 
 <p align="left"> <a href="https://twitter.com/shahryarkl24" target="blank"><img src="https://img.shields.io/twitter/follow/shahryarkl24?logo=twitter&style=for-the-badge" alt="shahryarkl24" /></a> </p>
@@ -21,6 +21,20 @@ src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <!-- R -->
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
+         alt="R" width="40" height="40"/>
+  </a>
+
+  <!-- Stata -->
+  <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg"
+         alt="Stata" width="40" height="40"/>
+  </a>
+
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mshahryar024&show_icons=true&locale=en" alt="mshahryar024" /></p>
 
@@ -86,9 +100,3 @@ src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-
 - Strong interest in **policy, analytics, and applied research**
 
 ---
-
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/muhammad-shahryar-97861127b
-- GitHub: https://github.com/mshahryar024
-
-> “Data is only useful when it answers the right question.”
