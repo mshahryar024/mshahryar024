@@ -7,6 +7,11 @@
 I work at the intersection of **data, economics, and causal inference** — using real-world datasets to answer policy-relevant and business-relevant questions.
 
 ---
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Stata](https://img.shields.io/badge/Stata-1A5F7A?style=flat)
 
 ## 🔬 Research & Analytical Focus
 - **Causal Inference** (RDD, DiD, PSM)
