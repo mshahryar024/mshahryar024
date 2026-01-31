@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahryar</h1>
 <h3 align="center">Applied Data Scientist & Econometrics Researcher | Causal Inference • Forecasting • Analytics</h3>
 <img align="right" alt="coding" width="450"
-src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
+src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />
 
 <p align="left"> <a href="https://twitter.com/shahryarkl24" target="blank"><img src="https://img.shields.io/twitter/follow/shahryarkl24?logo=twitter&style=for-the-badge" alt="shahryarkl24" /></a> </p>
 
