@@ -1,17 +1,30 @@
-# 👋 Hi, I’m Muhammad Shahryar
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/mshahryar024)
 
-🎓 Data Science & Economics (Double Major) at Knox College  
-📍 Galesburg, IL  
-📊 Applied Data Scientist | Econometrics | Research Assistant  
 
-I work at the intersection of **data, economics, and causal inference** — using real-world datasets to answer policy-relevant and business-relevant questions.
+<h1 align="center">Hi 👋, I'm Muhammad Shahryar</h1>
+<h3 align="center">Applied Data Scientist & Econometrics Researcher | Causal Inference • Forecasting • Analytics</h3>
+<img align="right" alt="coding" width="350"
+src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 
----
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Stata](https://img.shields.io/badge/Stata-1A5F7A?style=flat)
+<p align="left"> <a href="https://twitter.com/shahryarkl24" target="blank"><img src="https://img.shields.io/twitter/follow/shahryarkl24?logo=twitter&style=for-the-badge" alt="shahryarkl24" /></a> </p>
+
+- 📫 How to reach me **sheryr8@gmail.com**
+
+- ⚡ Fun fact **I watch a movie a day.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shahryarkl24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahryarkl24" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-shahryar-97861127b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-shahryar-97861127b" height="30" width="40" /></a>
+<a href="https://instagram.com/shahryarahmedklasra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahryarahmedklasra" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mshahryar024&show_icons=true&locale=en" alt="mshahryar024" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshahryar024&" alt="mshahryar024" /></p>
 
 ## 🔬 Research & Analytical Focus
 - **Causal Inference** (RDD, DiD, PSM)
