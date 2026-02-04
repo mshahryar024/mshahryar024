@@ -48,6 +48,11 @@ src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-
 - **Spatial & Geospatial Data Analysis**
 
 ---
+## 📌  Projects (Repositories Coming)
+- 📈 GDP Forecasting & Feature Importance (Python)
+- 🎵 Spotify-Style Music Recommender (KNN, Streamlit)
+- 📊 Demographic & Population Forecasting
+- 📚 Econometrics Research Pipelines
 
 ## 🧠 Current & Recent Work
 - **Research Assistant — Nepal Conflict & Migration**
@@ -85,11 +90,6 @@ src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-
 
 ---
 
-## 📌 Selected Projects (Repositories Coming)
-- 📈 GDP Forecasting & Feature Importance (Python)
-- 🎵 Spotify-Style Music Recommender (KNN, Streamlit)
-- 📊 Demographic & Population Forecasting
-- 📚 Econometrics Research Pipelines
 
 ---
 
