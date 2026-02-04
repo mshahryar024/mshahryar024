@@ -48,11 +48,20 @@ src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-
 - **Spatial & Geospatial Data Analysis**
 
 ---
-## 📌  Projects (Repositories Coming)
-- 📈 GDP Forecasting & Feature Importance (Python)
-- 🎵 Spotify-Style Music Recommender (KNN, Streamlit)
-- 📊 Demographic & Population Forecasting
-- 📚 Econometrics Research Pipelines
+## 📌 Projects
+
+- 📊 **Retail Performance Analysis — Sales & Profit (Tableau)**  
+  - Interactive dashboard analyzing retail sales and profit across categories, sub-categories, geography, and time  
+  - Implements distribution diagnostics (log-scale boxplots), growth benchmarking (20% target), geographic sales mapping, and quarterly trends  
+  - Focuses on business-oriented performance evaluation, volatility, and growth opportunities  
+  🔗 Tableau: https://public.tableau.com/app/profile/muhammad.shahryar  
+  🔗 GitHub: https://github.com/mshahryar024/tableau-retail-performance-dashboard
+
+- 📈 **GDP Forecasting & Feature Importance (Python)**  
+- 🎵 **Spotify-Style Music Recommender (KNN, Streamlit)**  
+- 📊 **Demographic & Population Forecasting**  
+- 📚 **Econometrics Research Pipelines**
+
 
 ## 🧠 Current & Recent Work
 - **Research Assistant — Nepal Conflict & Migration**
