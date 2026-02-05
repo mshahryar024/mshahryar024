@@ -13,26 +13,30 @@ src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-
 - ⚡ Fun fact **I watch a movie a day.**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://twitter.com/shahryarkl24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahryarkl24" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-shahryar-97861127b/" target="_blank">
-  <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       alt="Muhammad Shahryar LinkedIn"
-       height="30"
-       width="40" />
-</a>
-<a href="https://instagram.com/shahryarahmedklasra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahryarahmedklasra" height="30" width="40" /></a>
+  <a href="https://twitter.com/shahryarkl24" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+         height="30" width="40" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/muhammad-shahryar-97861127b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         height="30" width="40" />
+  </a>
+
+  <a href="https://instagram.com/shahryarahmedklasra" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         height="30" width="40" />
+  </a>
+
+  <a href="mailto:sheryr8@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+         height="30" width="40"
+         style="filter: invert(40%);" />
+  </a>
 </p>
-<a href="mailto:sheryr8@gmail.com">
-  <img align="center"
-       src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-       alt="Email"
-       height="30"
-       width="40"
-       style="filter: invert(40%);" />
-</a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
