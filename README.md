@@ -7,7 +7,9 @@
 src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />
 
 <p align="left"> <a href="https://twitter.com/shahryarkl24" target="blank"><img src="https://img.shields.io/twitter/follow/shahryarkl24?logo=twitter&style=for-the-badge" alt="shahryarkl24" /></a> </p>
-📫 How to reach me: **[sheryr8@gmail.com](mailto:sheryr8@gmail.com)**
+<p>
+📫 How to reach me: <strong><a href="mailto:sheryr8@gmail.com">sheryr8@gmail.com</a></strong>
+</p>
 
 ⚡ Fun fact: **I watch a movie a day.**
 
