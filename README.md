@@ -26,10 +26,11 @@ src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-
 </p>
 <a href="mailto:sheryr8@gmail.com">
   <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+       src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
        alt="Email"
        height="30"
-       width="40" />
+       width="40"
+       style="filter: invert(40%);" />
 </a>
 </p>
 
