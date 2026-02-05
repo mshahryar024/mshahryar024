@@ -78,7 +78,16 @@ src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-
   🔗 GitHub: https://github.com/mshahryar024/tableau-retail-performance-dashboard
 
 - 📈 **GDP Forecasting & Feature Importance (Python)**  
-- 🎵 **Spotify-Style Music Recommender (KNN, Streamlit)**  
+### 🎵 Spotify-Style Music Recommender (Python, ML)
+**Similarity-based recommendation system using audio features**
+- KNN recommendations with feature normalization
+- Mood classification using valence & energy
+- Neural network autoencoder for song embeddings
+- Full EDA with interpretable visualizations
+
+🔗 Repo: https://github.com/mshahryar024/spotify-music-recommender
+
+---
 - 📊 **Demographic & Population Forecasting**  
 - 📚 **Econometrics Research Pipelines**
 
